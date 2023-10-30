@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code and comprehened
 - 🌱 I’m currently learning about coding languages
 - 💞️ I’m looking to collaborate on maximizing Flipper Zero functionality
-- 📫 How to reach me email@ Ourfather00@proton.me
+- 📫 How to reach me on telegram @Ourfather007
 
 <!---
 Ourfather24/Ourfather24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
